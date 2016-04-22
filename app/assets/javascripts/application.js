@@ -14,3 +14,11 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require bootstrap
+//= require bootstrap.min.js
+//= require custom.js
+//= require jquery.hoverdir.js
+//= require jquery.hoverex.min.js
+//= require jquery.isotope.min.js
+//= require jquery.prettyPhoto.js
+//= require retina-1.1.0.js

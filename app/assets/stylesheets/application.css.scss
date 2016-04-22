@@ -12,4 +12,14 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap.css
+ *= require font-awesome.min.css
+ *= require hoverex-all.css
+ *= require prettyPhoto.css
+ *= require style.css
  */
+ 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+ 
+
